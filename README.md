@@ -1,5 +1,11 @@
 # TLFINet
 
+# TODOs
+-[] Release training code.
+-[] Release inference code.
+-[] Release predict code.
+-[] Release pretrained models.
+
 # Code Structure
 
 ```plaintext
@@ -15,3 +21,4 @@ project/
 ```
 
 # Acknowledgments
+This repo is built upon [Ultralytics](https://github.com/ultralytics/ultralytics). Sincere thanks to their excellent work!
