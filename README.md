@@ -1,10 +1,11 @@
-# TLFINet
+# TLFINet : Lightweight Steel Surface Defect Detection based on Texture-Guided Learning and Feature Interaction
+- This research on TLFINet is valuable for steel surface defect detection. It solves problems faced by traditional and existing methods. TLFINet outperforms other lightweight algorithms in accuracy, complexity, and real-time performance.
 
 # TODOs
--[] Release training code.
--[] Release inference code.
--[] Release predict code.
--[] Release pretrained models.
+- [ ] Release training code.
+- [ ] Release inference code.
+- [ ] Release predict code.
+- [ ] Release pretrained models.
 
 # Code Structure
 
